@@ -35,8 +35,6 @@ langchain (for document splitting)
 Installation
 Clone the repository:
 
-bash
-git clone https://github.com/your_username/taxly-chatbot.git
 cd taxly-chatbot
 Install dependencies:
 
